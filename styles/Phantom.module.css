@@ -1,0 +1,34 @@
+.phantom {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    color: black;
+    margin: 15px;
+  }
+
+  .txtPerso {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0px 0px 30px 30px;
+  }
+  
+  .light {
+    font-weight: lighter;
+    font-size: 12px;
+  }
+  
+  .bold {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+
+  .displayTxt {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

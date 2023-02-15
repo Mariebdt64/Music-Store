@@ -1,0 +1,21 @@
+.enceinte{
+    width: 150px;
+    height: 45px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: black;
+    border: 1px white solid;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+  
+.enceinte:hover {
+    color: black;
+    background-color: white;
+    border: 2px white solid;
+    opacity: 0.3;
+    border: 1px black solid;
+  }
